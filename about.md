@@ -4,13 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Chinese Name: 刘新宇
-English Name: Shawn
-
-### More Information
-
+My name is Shawn, and My Chinese name is 刘新宇.
 I am a programmer likes erlang and elixir.
 
-### Contact me
+`Contact me`
 
 [506895667@qq.com](506895667@qq.com)
