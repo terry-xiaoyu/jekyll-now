@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Chinese Name: 刘新宇
+English Name: Shawn
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a programmer likes erlang and elixir.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[506895667@qq.com](506895667@qq.com)
